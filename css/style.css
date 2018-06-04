@@ -1,0 +1,40 @@
+.navbar{
+	box-shadow: 0 0 2px;
+}
+
+.jumbotron{
+	background: url('../img/bg-camera.jpg') no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	padding: 0;
+}
+
+.title-center{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.7);
+	padding: 0;
+	margin: 0;
+	color: #fff;
+	display: flex;
+	align-items: center;
+}
+.title-text{
+	padding-left: 25px;
+}
+
+.konten{
+	margin: 0;
+	width: 100%;
+}
+
+.text-scroll{
+	height: 150px;
+	overflow: auto;
+}
+
+.row{
+	margin: 0;
+}
